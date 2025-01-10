@@ -1,5 +1,5 @@
 
-# Clinic Management
+# Clinic Management System
 
 
 ## Functions
